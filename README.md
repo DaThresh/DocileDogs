@@ -2,7 +2,7 @@
 Docile Dogs is a small plugin for Spigot (& PaperMC) servers to prevent players from killing tamed dogs.
 
 ## Installation
-Download resource from Spigot here and install into your server's /plugin folder
+Download resource from Spigot [here](https://www.spigotmc.org/resources/dociledogs.76666/) and install into your server's /plugin folder
 
 ## Usage
 No setup is required.  The plugin will prevent damage from **ANY PLAYER** to **ANY TAMED WOLF**

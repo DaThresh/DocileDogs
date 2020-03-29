@@ -14,7 +14,7 @@ public class DogHitListener implements Listener {
 		Entity damager = event.getDamager();
 		if(damagee instanceof Wolf && damager instanceof Player) {
 			if(((Wolf) damagee).isTamed()) {
-				event.setCancelled(true);				
+				event.setCancelled(true);			
 			}
 		}
 	}
